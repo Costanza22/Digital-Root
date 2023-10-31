@@ -12,7 +12,7 @@ A função `digitalRoot` aceita um número inteiro não negativo como entrada e 
 
 ## Testes Unitários
 
-Foram criados testes unitários para a função `digitalRoot` para garantir que ela funcione corretamente em diferentes cenários. Você pode encontrar os testes no arquivo `testDigitalRoot.py`.
+Foram criados testes unitários para a função `digitalRoot` para garantir que ela funcione corretamente em diferentes cenários. Você pode encontrar os testes no arquivo `test.py`.
 
 ## Como Executar os Testes
 
